@@ -6,9 +6,9 @@ color:
   saturation: 0.943424615310505
   rhythmicContrast: 0.9143267413601279
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 name: Koffee&Lipstick
